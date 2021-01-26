@@ -3,13 +3,16 @@
 Ce dépôt contient quelques ressources pour faciliter l'adapation et la réalisation des TP C sous Unix/Linux
 
 ## Conio
-Ce dossier contient une implémentation des fonctions getch() de Microsoft
+Ce dossier contient une implémentation pour GCC des fonctions getch() de Microsoft
 
 ## TerminalUtils
 Ce dossier contient un wrapper pour ncurses plus simple d'utilisation et qui ressemble à ConsoleTools
 
 ## TP-Squelette-v3.0-Linux
-Ce dossier contient un portage du sujet du TP6 pour le faire fonctionner sous Linux
+Ce dossier contient un portage du sujet du TP6 pour le faire fonctionner sous Linux  
+Il suffit d'aller dans ce dossier et de faire  
+&nbsp;&nbsp; gcc *.c && ./a.out  
+pour compiler et exécuter le programme
 
 ## Makefile
 Ce dossier contient un exemple de Makefile et d'utilisation   
