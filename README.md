@@ -9,7 +9,7 @@ Ce dossier contient une implémentation des fonctions getch() de Microsoft
 Ce dossier contient un wrapper pour ncurses plus simple d'utilisation et qui ressemble à ConsoleTools
 
 ## TP-Squelette-v3.0-Linux
-Ce dossier contient un portage du sujet du TP6 pour le faire fonctionne sous Linux
+Ce dossier contient un portage du sujet du TP6 pour le faire fonctionner sous Linux
 
 ## Makefile
 Ce dossier contient un exemple de Makefile et d'utilisation   
